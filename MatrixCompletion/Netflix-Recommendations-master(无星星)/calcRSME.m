@@ -1,0 +1,1 @@
+function [rsme] = calcRSME(Apre, data)%rsme:sum = 0;for i=1:size(data,1)  sum= sum +(Apre(data(i,2),data(i,1))-data(i,3))^2;endrsme = sqrt(sum/size(data,1));
