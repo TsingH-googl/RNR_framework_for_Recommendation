@@ -8,7 +8,7 @@
 
 "A Parameter-free Bayesian-based Framework for Enhancing Top-N Recommender Systems .pdf".
 
-![image]{https://github.com/TsingH-googl/RNR_framework_for_Recommendation/blob/master/RNR_framework.jpg}
+![image](https://github.com/TsingH-googl/RNR_framework_for_Recommendation/blob/master/RNR_framework.jpg)
 
 
 # Run
