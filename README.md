@@ -8,7 +8,7 @@
 
 "A Parameter-free Bayesian-based Framework for Enhancing Top-N Recommender Systems .pdf".
 
-![image]{https://github.com/TsingH-googl/MyMail/blob/master/1.png}
+![image]{https://github.com/TsingH-googl/MyMail/raw/master/1.png}
 
 
 # Run
