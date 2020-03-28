@@ -8,6 +8,8 @@
 
 "A Parameter-free Bayesian-based Framework for Enhancing Top-N Recommender Systems .pdf".
 
+![image]{https://github.com/TsingH-googl/MyMail/blob/master/1.png}
+
 
 # Run
 1. This is the source codes written in Matlab R2015b version for the paper "RNR: A Generic Bayesian-based Framework for Enhancing Top-N Recommender Systems" (WWW 2020 poster paper). 
